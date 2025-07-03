@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\STAJ\LibrarySolution\LibrarySolution\LibraryBusiness\obj\Debug\LibraryBusiness.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\STAJ\LibrarySolution\LibrarySolution\LibraryBusiness\obj\Debug\LibraryBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\STAJ\LibrarySolution\LibrarySolution\LibraryBusiness\bin\Debug\LibraryBusiness.dll
+C:\Users\Lenovo\Desktop\STAJ\LibrarySolution\LibrarySolution\LibraryBusiness\bin\Debug\LibraryBusiness.pdb
+C:\Users\Lenovo\Desktop\STAJ\LibrarySolution\LibrarySolution\LibraryBusiness\obj\Debug\LibraryBusiness.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\STAJ\LibrarySolution\LibrarySolution\LibraryBusiness\obj\Debug\LibraryBusiness.dll
+C:\Users\Lenovo\Desktop\STAJ\LibrarySolution\LibrarySolution\LibraryBusiness\obj\Debug\LibraryBusiness.pdb
+C:\Users\Lenovo\Desktop\STAJ\LibrarySolution\LibraryBusiness\bin\Debug\LibraryBusiness.dll
+C:\Users\Lenovo\Desktop\STAJ\LibrarySolution\LibraryBusiness\bin\Debug\LibraryBusiness.pdb
+C:\Users\Lenovo\Desktop\STAJ\LibrarySolution\LibraryBusiness\obj\Debug\LibraryBusiness.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\STAJ\LibrarySolution\LibraryBusiness\obj\Debug\LibraryBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\STAJ\LibrarySolution\LibraryBusiness\obj\Debug\LibraryBusiness.dll
+C:\Users\Lenovo\Desktop\STAJ\LibrarySolution\LibraryBusiness\obj\Debug\LibraryBusiness.pdb
+C:\Users\Lenovo\Desktop\STAJ\LibrarySolution\LibraryBusiness\obj\Debug\LibraryBusiness.csproj.CopyComplete

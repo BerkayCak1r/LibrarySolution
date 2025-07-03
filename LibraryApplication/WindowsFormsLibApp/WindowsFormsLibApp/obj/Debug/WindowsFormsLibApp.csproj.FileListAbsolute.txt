@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\WindowsFormsLibApp\WindowsFormsLibApp\obj\Debug\WindowsFormsLibApp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\WindowsFormsLibApp\WindowsFormsLibApp\obj\Debug\WindowsFormsLibApp.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\WindowsFormsLibApp\WindowsFormsLibApp\obj\Debug\WindowsFormsLibApp.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\WindowsFormsLibApp\WindowsFormsLibApp\obj\Debug\WindowsFormsLibApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\STAJ\LibrarySolution\LibraryApplication\WindowsFormsLibApp\WindowsFormsLibApp\obj\Debug\WindowsFormsLibApp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\STAJ\LibrarySolution\LibraryApplication\WindowsFormsLibApp\WindowsFormsLibApp\obj\Debug\WindowsFormsLibApp.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\STAJ\LibrarySolution\LibraryApplication\WindowsFormsLibApp\WindowsFormsLibApp\obj\Debug\WindowsFormsLibApp.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\STAJ\LibrarySolution\LibraryApplication\WindowsFormsLibApp\WindowsFormsLibApp\obj\Debug\WindowsFormsLibApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\STAJ\LibrarySolution\LibraryApplication\WindowsFormsLibApp\WindowsFormsLibApp\bin\Debug\WindowsFormsLibApp.exe.config
+C:\Users\Lenovo\Desktop\STAJ\LibrarySolution\LibraryApplication\WindowsFormsLibApp\WindowsFormsLibApp\bin\Debug\WindowsFormsLibApp.exe
+C:\Users\Lenovo\Desktop\STAJ\LibrarySolution\LibraryApplication\WindowsFormsLibApp\WindowsFormsLibApp\bin\Debug\WindowsFormsLibApp.pdb
+C:\Users\Lenovo\Desktop\STAJ\LibrarySolution\LibraryApplication\WindowsFormsLibApp\WindowsFormsLibApp\bin\Debug\LibraryBusiness.dll
+C:\Users\Lenovo\Desktop\STAJ\LibrarySolution\LibraryApplication\WindowsFormsLibApp\WindowsFormsLibApp\bin\Debug\LibraryConfigUtilities.dll
+C:\Users\Lenovo\Desktop\STAJ\LibrarySolution\LibraryApplication\WindowsFormsLibApp\WindowsFormsLibApp\bin\Debug\LibraryBusiness.pdb
+C:\Users\Lenovo\Desktop\STAJ\LibrarySolution\LibraryApplication\WindowsFormsLibApp\WindowsFormsLibApp\obj\Debug\WindowsFormsLibApp.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\STAJ\LibrarySolution\LibraryApplication\WindowsFormsLibApp\WindowsFormsLibApp\obj\Debug\WindowsFormsLibApp.exe
+C:\Users\Lenovo\Desktop\STAJ\LibrarySolution\LibraryApplication\WindowsFormsLibApp\WindowsFormsLibApp\obj\Debug\WindowsFormsLibApp.pdb
