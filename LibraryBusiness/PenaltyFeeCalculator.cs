@@ -56,7 +56,11 @@ namespace LibraryBusiness
         
         public String Calculate(DateTime start, DateTime end, string cultureCode){
             
-            
+            if (start > end)
+          {
+              return $"Hatalı giriş: Başlangıç tarihi bitiş tarihinden sonra olamaz.";
+          }
+           
             Country country = SettingList.FirstOrDefault(c => c.CountryCode.Equals(cultureCode, StringComparison.OrdinalIgnoreCase));
             // cultureCode a göre ülke bul
             
